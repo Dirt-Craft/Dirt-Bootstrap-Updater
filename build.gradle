@@ -1,0 +1,32 @@
+plugins {
+    id 'com.github.johnrengelman.shadow' version '5.2.0'
+    id 'java'
+}
+
+group 'net.dirtcraft.update.bootstrapper'
+version '1.0.0'
+
+sourceCompatibility = 1.8
+
+configurations {
+    shadowCompile
+    compile.extendsFrom(shadowCompile)
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    shadowCompile 'commons-io:commons-io:2.6'
+}
+
+
+jar{
+    archiveName = "${project.name}.jar"
+}
+
+shadowJar {
+    configurations = [project.configurations.shadow]
+    archiveFileName = "${project.name}.jar"
+}
