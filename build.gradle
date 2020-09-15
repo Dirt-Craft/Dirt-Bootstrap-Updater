@@ -27,6 +27,9 @@ jar{
 }
 
 shadowJar {
-    configurations = [project.configurations.shadow]
+    configurations = [project.configurations.shadowCompile]
     archiveFileName = "${project.name}.jar"
+    minimize()
 }
+
+build.dependsOn(shadowJar);
