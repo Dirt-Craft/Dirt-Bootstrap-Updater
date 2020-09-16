@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59ec7a18-d5e7-45a1-8b6c-ba316ad63a31" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/net/dirtcraft/update/bootstrapper/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/net/dirtcraft/update/bootstrapper/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/dirtcraft/update/bootstrapper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/dirtcraft/update/bootstrapper/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600198575952</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="forgot manifesto">
+      <created>1600247429968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600247429968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,29 +208,30 @@
     <MESSAGE value="increment version number" />
     <MESSAGE value="gradle fixes for jitpack.io" />
     <MESSAGE value="more jit shit" />
-    <option name="LAST_COMMIT_MESSAGE" value="more jit shit" />
+    <MESSAGE value="forgot manifesto" />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot manifesto" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2" timestamp="1600198575555">
+    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2" timestamp="1600247429426">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198575555" />
-    <state width="2456" height="410" key="GridCell.Tab.0.bottom" timestamp="1600197754652">
+    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247429426" />
+    <state width="2456" height="409" key="GridCell.Tab.0.bottom" timestamp="1600247487567">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="2456" height="410" key="GridCell.Tab.0.bottom/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600197754652" />
-    <state width="2456" height="410" key="GridCell.Tab.0.center" timestamp="1600197754652">
+    <state width="2456" height="409" key="GridCell.Tab.0.bottom/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247487567" />
+    <state width="2456" height="409" key="GridCell.Tab.0.center" timestamp="1600247487567">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="2456" height="410" key="GridCell.Tab.0.center/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600197754652" />
-    <state width="2456" height="410" key="GridCell.Tab.0.left" timestamp="1600197754651">
+    <state width="2456" height="409" key="GridCell.Tab.0.center/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247487567" />
+    <state width="2456" height="409" key="GridCell.Tab.0.left" timestamp="1600247487567">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="2456" height="410" key="GridCell.Tab.0.left/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600197754651" />
-    <state width="2456" height="410" key="GridCell.Tab.0.right" timestamp="1600197754652">
+    <state width="2456" height="409" key="GridCell.Tab.0.left/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247487567" />
+    <state width="2456" height="409" key="GridCell.Tab.0.right" timestamp="1600247487567">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state width="2456" height="410" key="GridCell.Tab.0.right/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600197754652" />
+    <state width="2456" height="409" key="GridCell.Tab.0.right/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247487567" />
     <state width="2456" height="503" key="GridCell.Tab.1.bottom" timestamp="1600196670375">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
@@ -232,10 +248,10 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="2456" height="503" key="GridCell.Tab.1.right/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600196670375" />
-    <state x="903" y="451" key="Vcs.Push.Dialog.v2" timestamp="1600198577359">
+    <state x="903" y="451" key="Vcs.Push.Dialog.v2" timestamp="1600247432532">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state x="903" y="451" key="Vcs.Push.Dialog.v2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198577359" />
+    <state x="903" y="451" key="Vcs.Push.Dialog.v2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600247432532" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1600237265480">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
