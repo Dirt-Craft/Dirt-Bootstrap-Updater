@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600198380458</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="more jit shit">
+      <created>1600198575952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600198575952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,13 +192,14 @@
     <MESSAGE value="fix gradle shit" />
     <MESSAGE value="increment version number" />
     <MESSAGE value="gradle fixes for jitpack.io" />
-    <option name="LAST_COMMIT_MESSAGE" value="gradle fixes for jitpack.io" />
+    <MESSAGE value="more jit shit" />
+    <option name="LAST_COMMIT_MESSAGE" value="more jit shit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2" timestamp="1600198380102">
+    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2" timestamp="1600198575555">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198380102" />
+    <state x="437" y="163" width="1717" height="1250" key="CommitChangelistDialog2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198575555" />
     <state width="2456" height="410" key="GridCell.Tab.0.bottom" timestamp="1600197754652">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
@@ -224,9 +232,13 @@
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
     <state width="2456" height="503" key="GridCell.Tab.1.right/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600196670375" />
-    <state x="903" y="451" key="Vcs.Push.Dialog.v2" timestamp="1600198383582">
+    <state x="903" y="451" key="Vcs.Push.Dialog.v2" timestamp="1600198577359">
       <screen x="62" y="0" width="2498" height="1440" />
     </state>
-    <state x="903" y="451" key="Vcs.Push.Dialog.v2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198383582" />
+    <state x="903" y="451" key="Vcs.Push.Dialog.v2/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600198577359" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1600237265480">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/62.0.2498.1440/2560.0.1920.1080@62.0.2498.1440" timestamp="1600237265480" />
   </component>
 </project>

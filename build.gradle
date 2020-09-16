@@ -26,6 +26,12 @@ dependencies {
 
 jar{
     archiveName = "${project.name}.jar"
+    manifest {
+        attributes(
+                'Class-Path': configurations.compile.collect { it.getName() }.join(' '),
+                'Main-Class': 'net.dirtcraft.update.bootstrapper.Main'
+        )
+    }
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
